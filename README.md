@@ -1,4 +1,4 @@
-# KG
+# KG Кулич София
 Лабораторная работа 1. Цветовые модели.  
 Вариант нечетный: CMYK – RGB – HLS       
 Файлы: untitled3.jar и ConverterColor.java . 
